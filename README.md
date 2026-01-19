@@ -70,7 +70,7 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
-
+![Flowchart for Exercise 5](<exercise-5/Screenshot 2026-01-19 at 12.50.14.png>)
 
 
 
