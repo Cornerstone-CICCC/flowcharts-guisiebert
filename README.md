@@ -45,15 +45,6 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 
 ### _Answer_
 
-Pseudocode:
-- Input num1
-- Input num2
-- Input num3
-- HIGHEST = num1
-- If num2 > HIGHEST then HIGHEST = num2
-- if num3 > HIGHEST then HIGHEST = num3
-- Print HIGHEST
-
 ![Flowchart for Exercise 3](<exercise-3/Screenshot 2026-01-19 at 12.49.58.png>)
 
 ## Exercise 4
@@ -61,6 +52,7 @@ Pseudocode:
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
+![Flowchart for Exercise 4](<exercise-4/Screenshot 2026-01-19 at 12.50.05.png>)
 
 ## Exercise 5
 
