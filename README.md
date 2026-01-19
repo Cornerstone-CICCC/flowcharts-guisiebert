@@ -35,6 +35,7 @@ Pseudocode:
 - Print A
 
 ### _Answer_
+![Flowchart for Exercise 2](<exercise-2/Screenshot 2026-01-19 at 12.49.52.png>)
 
 ## Exercise 3
 
