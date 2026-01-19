@@ -22,6 +22,7 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
+![Flowchart for Exercise 1](exercise-1/Screenshot 2026-01-19 at 12.49.49.png)
 
 ## Exercise 2
 
@@ -65,3 +66,12 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
+
+
+
+
+### Figjam Link:
+https://www.figma.com/board/jGOmqxedMLdSEFM35dQVyq/CICCC---Flowcharts-Exercise?node-id=0-1&p=f&t=QxTqSHEHj0S6adGt-0
+
+### Class Material:
+https://classroom.google.com/c/NzkzMjMzODk1OTYx/m/NzkzMjMzODk1OTcx/details 
